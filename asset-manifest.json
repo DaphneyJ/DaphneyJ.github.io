@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c9afc7d.css",
+    "main.js": "/static/js/main.c317f6fa.js",
+    "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.da1be6c5.chunk.js": "/static/js/769.da1be6c5.chunk.js",
+    "static/media/nlp.png": "/static/media/nlp.6761018e7f887768ffd6.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/fsu.png": "/static/media/fsu.b87ea7688d02a66657b0.png",
+    "static/media/cre.png": "/static/media/cre.7722ddf8bec691627fde.png",
+    "static/media/stats.png": "/static/media/stats.fe182c43d65468001b8f.png",
+    "static/media/ml.png": "/static/media/ml.03a73453a881525d2dd3.png",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/google.png": "/static/media/google.c00aaaeb191a2e279990.png",
+    "static/media/layoff.png": "/static/media/layoff.9d05da664ad515629569.png",
+    "static/media/churn.png": "/static/media/churn.3a35ff8aebe617a91a8e.png",
+    "static/media/ibm.png": "/static/media/ibm.aab03e233dcbbaa3a983.png",
+    "static/media/housing.png": "/static/media/housing.4d982ba43eea727a4f7a.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/elekta.png": "/static/media/elekta.a65b088a1ee3f4ce37f9.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/cox.png": "/static/media/cox.8c1891bc3ac8e2a65ef4.png",
+    "static/media/georgiatech.png": "/static/media/georgiatech.1def7c21ecc57eb57f77.png",
+    "static/media/homedepot.png": "/static/media/homedepot.494f0cb4581e140fcbdd.png",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.9c9afc7d.css.map": "/static/css/main.9c9afc7d.css.map",
+    "main.c317f6fa.js.map": "/static/js/main.c317f6fa.js.map",
+    "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.da1be6c5.chunk.js.map": "/static/js/769.da1be6c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c9afc7d.css",
+    "static/js/main.c317f6fa.js"
+  ]
+}
